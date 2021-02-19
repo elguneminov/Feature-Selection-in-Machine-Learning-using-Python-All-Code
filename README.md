@@ -1,5 +1,5 @@
 # Feature Selection in Machine Learning using Python
-I have recently started teaching machine learning on my [YouTube Channel KGP Talkie](www.youtube.com/kgptalkie). In this tutorial series I have taught about feature selection which improve the accuracy and reduces the training time. Moreover, feature selection used in feature reduction which improve accuracy and reduces training time. It also reduces the chances of over fitting.
+I have recently started teaching machine learning. In this tutorial series I have taught about feature selection which improve the accuracy and reduces the training time. Moreover, feature selection used in feature reduction which improve accuracy and reduces training time. It also reduces the chances of over fitting.
 
 Feature Selection is one of the core concepts in machine learning which hugely impacts the performance of your model. The data features that you use to train your machine learning models have a huge influence on the performance you can achieve. Irrelevant or partially relevant features can negatively impact model performance. Feature selection and Data cleaning should be the first and most important step of your model designing.
 
